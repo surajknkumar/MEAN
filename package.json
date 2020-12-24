@@ -1,0 +1,20 @@
+{
+  "name": "testsecive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "dd "
+  },
+  "author": "surajknkumar <surajknkumar@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "Q": "^1.0.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.8",
+    "nodemon": "^2.0.6",
+    "path": "^0.12.7",
+    "q": "^1.5.1"
+  }
+}
